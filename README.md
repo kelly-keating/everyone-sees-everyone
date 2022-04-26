@@ -1,4 +1,4 @@
-# Fullstack Collection App
+# Everyone Sees Everyone
 
 This repo will help you manage everyone pairing with everyone (especially online).
 
